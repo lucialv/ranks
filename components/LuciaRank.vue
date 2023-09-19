@@ -10,7 +10,7 @@
 							alt="logolucia"
 						/> -->
 						<a
-							href="https://tracker.gg/valorant/profile/riot/lucialv%23love/overview"
+							href="https://tracker.gg/valorant/profile/riot/shy%20lucia%23love/overview"
 							target="_blank"
 							class="mx-auto font-bold hover:underline"
 							:style="{ color: getTierColor(currentTierPatched) }"
