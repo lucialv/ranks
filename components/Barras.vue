@@ -11,13 +11,13 @@
 		</div>
 		<div class="mx-auto mt-16 flex justify-center">
 			<LuciaRank />
+		</div>
+		<div class="mx-auto mt-8 flex justify-center">
 			<SmurfRank />
-		</div>
-		<div class="mx-auto mt-8 flex justify-center">
 			<SmurfRank2 />
-			<SmurfRank3 />
 		</div>
 		<div class="mx-auto mt-8 flex justify-center">
+			<SmurfRank3 />
 			<SmurfRank4 />
 		</div>
 		<Diferencia />
