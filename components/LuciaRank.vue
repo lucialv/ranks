@@ -10,7 +10,7 @@
 							alt="logolucia"
 						/> -->
 						<a
-							href="https://tracker.gg/valorant/profile/riot/shy%20lucia%23love/overview"
+							href="https://tracker.gg/valorant/profile/riot/Lucía%20예쁜%23love/overview"
 							target="_blank"
 							class="mx-auto font-bold hover:underline"
 							:style="{ color: getTierColor(currentTierPatched) }"
@@ -63,7 +63,7 @@
 <script setup>
 import { ref, onMounted } from 'vue';
 
-const apiUrl = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/shy%20lucia/love';
+const apiUrl = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/Lucía%20예쁜/love';
 const playerName = ref('');
 const currentTier = ref('');
 const mmr = ref(0);
