@@ -13,8 +13,8 @@
 <script setup>
 import { ref, onMounted } from 'vue';
 
-const apiUrl1 = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/shy%20lucia/love';
-const apiUrl2 = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/LuciaZapatito/love';
+const apiUrl1 = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/Lucía%20예쁜/love';
+const apiUrl2 = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/lucia/trans';
 const apiUrl3 = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/mochi%20ツ/1307';
 const apiUrl4 = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/lucia%20plays%20sage/inmo';
 const apiUrl5 = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/lucia%20te%20abuchea/buu';
