@@ -14,11 +14,11 @@
 		</div>
 		<div class="mx-auto mt-8 flex justify-center">
 			<SmurfRank />
-			<SmurfRank2 />
+			<SmurfRank4 />
 		</div>
 		<div class="mx-auto mt-8 flex justify-center">
 			<SmurfRank3 />
-			<SmurfRank4 />
+			<SmurfRank2 />
 		</div>
 		<Diferencia />
 		<div class="mt-28">
