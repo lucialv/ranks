@@ -10,7 +10,7 @@
 							alt="logolucia"
 						/> -->
 						<a
-							href="https://tracker.gg/valorant/profile/riot/lucia%20te%20abuchea%23buu/overview"
+							href="https://tracker.gg/valorant/profile/riot/kitty%20lucia%23miau/overview"
 							target="_blank"
 							class="mx-auto font-bold hover:underline"
 							:style="{ color: getTierColor(currentTierPatched) }"
@@ -63,7 +63,7 @@
 <script setup>
 import { ref, onMounted } from 'vue';
 
-const apiUrl = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/lucia%20te%20abuchea/buu';
+const apiUrl = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/kitty%20lucia/miau';
 const playerName = ref('');
 const currentTier = ref('');
 const mmr = ref(0);
