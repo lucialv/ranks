@@ -15,9 +15,9 @@ import { ref, onMounted } from 'vue';
 
 const apiUrl1 = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/Lucía%20예쁜/love';
 const apiUrl2 = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/lucia/trans';
-const apiUrl3 = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/mochi%20ツ/1307';
+const apiUrl3 = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/lu%20ツ/girl';
 const apiUrl4 = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/lucia%20chiquita/michi';
-const apiUrl5 = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/lucia%20te%20abuchea/buu';
+const apiUrl5 = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/kitty%20lucia/miau';
 const elo1 = ref(0);
 const elo2 = ref(0);
 const elo3 = ref(0);
