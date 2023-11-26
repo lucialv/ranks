@@ -13,7 +13,7 @@
 <script setup>
 import { ref, onMounted } from 'vue';
 
-const apiUrl1 = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/Lucía%20예쁜/love';
+const apiUrl1 = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/Lucía/suya';
 const apiUrl2 = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/lucia/trans';
 const apiUrl3 = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/lu%20ツ/girl';
 const apiUrl4 = 'https://api.henrikdev.xyz/valorant/v1/mmr/eu/lucia%20chiquita/michi';
